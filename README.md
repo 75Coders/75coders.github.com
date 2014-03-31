@@ -1,5 +1,5 @@
 75coders.github.com
 ===================
-This is an alternate website that we can choose to use if the other one isn't good.<br>
+This is just a testing grounds and storage base for test files that will eventually be transferred to our other github.io repo.<br>
 -Alex Lonon<br>
-CEO, 75 Coders Inc.
+Founder, 75 Coders Inc.
